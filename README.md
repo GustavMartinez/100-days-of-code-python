@@ -13,7 +13,7 @@ Cada carpeta corresponde a un día del curso e incluye:
 ## 🗂️ Índice de proyectos
 | Día | Proyecto | Descripción |
 |-----|-----------|--------------|
-| 01 | [Band Name Generator](day01_band_name_generator) | Generador de nombres de bandas usando inputs del usuario |
+| 01 | [Band Name Generator](band_name_generator) | Generador de nombres de bandas usando inputs del usuario |
 | 02 | Tip Calculator | Calculadora de propinas según el total y número de personas |
 | 03 | Treasure Island Game | Juego interactivo basado en decisiones del usuario |
 | ... | ... | ... |
