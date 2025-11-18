@@ -16,6 +16,11 @@ Practicar conceptos de modulos
 - generate a random floating point number: random.uniform(a,b)
 - Create an load a module
 - Data structure: Lists
+- indexing
+- Access items by index
+- lists methods: append; extend;
+- random.choice('iterable')
+- Nested lists
 
 ## ▶️ Ejecución
 Ejecutar el archivo principal:
