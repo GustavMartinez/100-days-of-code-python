@@ -17,7 +17,7 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 02 | [Tip Calculator](002_tip_calculator) | Calculadora de propinas según el total y número de personas |
 | 03 | [Treasure island game](003_treasure_island) | Juego interactivo basado en decisiones del usuario |
 | 04 | [Rock, Paper, Scissors game](004_rock_paper_scissors_game) | Juego de piedra, papel o tijera |
-| 05 | ... | ... |
+| 05 | [Password generator](005_password_generator) | Generador de contraseñas |
 | 06 | ... | ... |
 
 ## 🧠 Habilidades en desarrollo
