@@ -18,7 +18,11 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 03 | [Treasure island game](003_treasure_island) | Juego interactivo basado en decisiones del usuario |
 | 04 | [Rock, Paper, Scissors game](004_rock_paper_scissors_game) | Juego de piedra, papel o tijera |
 | 05 | [Password generator](005_password_generator) | Generador de contraseñas |
-| 06 | ... | ... |
+| 06 | [Karel the Robot](006_Karel_the_robot) | Resolver acertijos |
+| 07 | ... | ... |
+| 08 | ... | ... |
+| 09 | ... | ... |
+| 10 | ... | ... |
 
 ## 🧠 Habilidades en desarrollo
 - Sintaxis y fundamentos de Python  
