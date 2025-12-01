@@ -19,8 +19,8 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 04 | [Rock, Paper, Scissors game](004_rock_paper_scissors_game) | Juego de piedra, papel o tijera |
 | 05 | [Password generator](005_password_generator) | Generador de contraseñas |
 | 06 | [Karel the Robot](006_Karel_the_robot) | Resolver acertijos |
-| 07 | ... | ... |
-| 08 | ... | ... |
+| 07 | [Hangman](007_Hangman) | Juego interactivo del "Ahorcado" o "Hangman" |
+| 08 | [Caesar cipher](008_caesar_cipher) | Resolver acertijos |
 | 09 | ... | ... |
 | 10 | ... | ... |
 
