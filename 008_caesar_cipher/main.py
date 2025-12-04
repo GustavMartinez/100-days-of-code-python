@@ -37,9 +37,20 @@ def caesar(direction, original_text, shift_amount):
         print("No funciono")
 
 
-direction = input("Type 'encode' to encrypt, type 'decode' to decrypt: \n").lower()
-text = input("Type your message: \n").lower()
-shift = int(input("Type the shift number:\n"))
 
-caesar(direction, text, shift)
+again = True
+
+while again:
+    direction = input("Type 'encode' to encrypt, type 'decode' to decrypt: \n").lower()
+    text = input("Type your message: \n").lower()
+    shift = int(input("Type the shift number:\n"))
+    caesar(direction, text, shift)
+
+
+    restart = input("Type 'yes' if you want to go again. Otherwise type 'no'.").lower()
+    
+    if restart == 'yes':
+        again = True
+    else:
+        again = False
 
