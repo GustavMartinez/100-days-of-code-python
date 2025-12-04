@@ -10,7 +10,8 @@ Programa para decifrar y encriptar palabras
 functions with inputs
 
 ## 🧠 Conceptos aprendidos
-- 
+- functions with inputs
+- positional and keyword arguments
 
 ## ▶️ Ejecución
 Ejecutar el archivo principal:
