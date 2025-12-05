@@ -21,7 +21,7 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 06 | [Karel the Robot](006_Karel_the_robot) | Resolver acertijos |
 | 07 | [Hangman](007_Hangman) | Juego interactivo del "Ahorcado" o "Hangman" |
 | 08 | [Caesar cipher](008_caesar_cipher) | encriptar y desencriptar palabras |
-| 09 | ... | ... |
+| 09 | [Secret auction program](009_secret_auction) | programa que permite apostar secretamente |
 | 10 | ... | ... |
 
 ## 🧠 Habilidades en desarrollo
