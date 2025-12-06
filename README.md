@@ -23,6 +23,8 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 08 | [Caesar cipher](008_caesar_cipher) | encriptar y desencriptar palabras |
 | 09 | [Secret auction program](009_secret_auction) | programa que permite apostar secretamente |
 | 10 | [Calculator](010_calculadora) | calculadora simple |
+| 11 | [Blackjack Game](011_blackjack_game) | Juego de blackjack |
+
 
 ## 🧠 Habilidades en desarrollo
 - Sintaxis y fundamentos de Python  
