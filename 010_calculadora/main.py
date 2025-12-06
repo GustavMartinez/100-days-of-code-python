@@ -21,9 +21,38 @@ operations = {
     "/" : divide,
 }
 
-print(operations["*"](number_1=4, number_2=8))
+def calculator():
+    execute = True
+    first_number = float(input("What's the first number?: ")) 
+
+    while execute:
+
+        
+
+        print("Mathemtatical operations:")
+        for i in operations:
+            print(i)
+
+        operation = input("Pick an operation: ")
+
+        second_number = float(input("What's the second number?: "))
+
+        result = operations[operation](number_1=first_number, number_2=second_number)
+
+        print(f"{first_number} {operation} {second_number} is: {result}")
+
+        new_calculation = input(f"Type 'y' to continue calculating with {result}, or type 'n' to start a new calculation: ")
+
+        if new_calculation == 'y':
+            first_number = result
+        else:
+            execute = False
+            calculator()
+    
+
+
+calculator()
 
 
 
-# first_number = float(input("What's the first number?: "))
-# operation = input("Pick an operation: ")
+
