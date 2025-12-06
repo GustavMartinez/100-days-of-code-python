@@ -22,7 +22,7 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 07 | [Hangman](007_Hangman) | Juego interactivo del "Ahorcado" o "Hangman" |
 | 08 | [Caesar cipher](008_caesar_cipher) | encriptar y desencriptar palabras |
 | 09 | [Secret auction program](009_secret_auction) | programa que permite apostar secretamente |
-| 10 | ... | ... |
+| 10 | [Calculator](010_calculadora) | calculadora simple |
 
 ## 🧠 Habilidades en desarrollo
 - Sintaxis y fundamentos de Python  
