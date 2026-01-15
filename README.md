@@ -24,6 +24,7 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 09 | [Secret auction program](009_secret_auction) | programa que permite apostar secretamente |
 | 10 | [Calculator](010_calculadora) | calculadora simple |
 | 11 | [Blackjack Game](011_blackjack_game) | Juego de blackjack |
+| 11 | [Number Guessing Game](012_number_guessing_game) | Juego de adivinar números |
 
 
 ## 🧠 Habilidades en desarrollo
