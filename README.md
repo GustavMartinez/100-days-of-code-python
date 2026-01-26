@@ -26,6 +26,9 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 11 | [Blackjack Game](011_blackjack_game) | Juego de blackjack |
 | 12 | [Number Guessing Game](012_number_guessing_game) | Juego de adivinar números |
 | 13 | [Debugging](013_debugging) | Técnicas de hacer debugging |
+| 14 | [Higher_Lower_Game](014_higher_lower) | Higher and lower game |
+| 15 | [Coffee_machine](015_coffee_machine) | Coffee Machine project |
+| 16 | [Coffee_machine_oop](016_coffee_machine_oop) | Coffee Machine project usando OOP |
 
 ## 🧠 Habilidades en desarrollo
 - Sintaxis y fundamentos de Python  
