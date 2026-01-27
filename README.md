@@ -29,6 +29,8 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 14 | [Higher_Lower_Game](014_higher_lower) | Higher and lower game |
 | 15 | [Coffee_machine](015_coffee_machine) | Coffee Machine project |
 | 16 | [Coffee_machine_oop](016_coffee_machine_oop) | Coffee Machine project usando OOP |
+| 17 | [Quiz_project](017_quiz_project) | Quiz Project |
+
 
 ## 🧠 Habilidades en desarrollo
 - Sintaxis y fundamentos de Python  
