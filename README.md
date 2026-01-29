@@ -31,6 +31,7 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 16 | [Coffee_machine_oop](016_coffee_machine_oop) | Coffee Machine project usando OOP |
 | 17 | [Quiz_project](017_quiz_project) | Quiz Project |
 | 18 | [Hirst_painting_project](018_hirst_painting) | Hirst painting project |
+| 19 | [Turtle_race](019_turtle_race) | Turtle race game |
 
 
 ## 🧠 Habilidades en desarrollo
