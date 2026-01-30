@@ -11,14 +11,28 @@
 
 LETTER_PATH = "024_2_mail_merge/Input/Letters/starting_letter.txt"
 NAMES_PATH = "024_2_mail_merge/Input/Names/invited_names.txt"
+PATH_TO_SAVE = "024_2_mail_merge/Output/ReadyToSend/"
 
-with open(LETTER_PATH, mode='r') as letter_file:
-    letter_content = letter_file.read()
-    print(letter_content)
-
+all_names = []
 
 with open(NAMES_PATH, mode='r') as names_file:
-    names_content = names_file.read()
-    print(names_content)
+    names_content = names_file.readlines()
+    
+    for i in names_content:
+        i = i.strip()
+        #i = i.upper()
+        all_names.append(i)
+
+
+for j in all_names:
+    with open(LETTER_PATH, mode="r") as letter_file:
+        letter_content = letter_file.read()
+        letter_content = letter_content.replace("[name]", j)
+        with open(f"{PATH_TO_SAVE}/{j}", 'w') as new_file:
+            new_file.write(letter_content)
+
+
+
+
 
 
