@@ -37,7 +37,7 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 22 | Pong game
 | 23 | Turtle crossing game
 | 24 | Snake game part 3 - keep track of score
-| 24_2 | Mail Marge | Construir emails personalizados
+| 24_2 | [Mail merge](024_2_mail_merge) | Creación de carta automatica |
 | 25 | 
 
 ## 🧠 Habilidades en desarrollo
