@@ -32,7 +32,13 @@ Cada carpeta corresponde a un día del curso e incluye:
 | 17 | [Quiz_project](017_quiz_project) | Quiz Project |
 | 18 | [Hirst_painting_project](018_hirst_painting) | Hirst painting project |
 | 19 | [Turtle_race](019_turtle_race) | Turtle race game |
-
+| 20 | [Snake_game](020_snake_game) | Juego de la serpiente |
+| 21 | Snake game part 2
+| 22 | Pong game
+| 23 | Turtle crossing game
+| 24 | Snake game part 3 - keep track of score
+| 24_2 | Mail Marge | Construir emails personalizados
+| 25 | 
 
 ## 🧠 Habilidades en desarrollo
 - Sintaxis y fundamentos de Python  
