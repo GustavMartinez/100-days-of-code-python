@@ -25,6 +25,9 @@ while not game_over:
 
     guess = input("Guess a letter: ").lower()
 
+    if guess in correct_letters:
+        print("You already guess that letter, try another one.")
+
     display = ""
 
     for letter in chosen_word:
